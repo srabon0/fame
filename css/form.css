@@ -1,0 +1,184 @@
+body
+{
+	background-image:url(../img/3aa.jpg);
+	background-attachment:fixed;
+	margin:0px;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+
+}
+
+.form{
+	height:1150px;
+	width:920px;
+	background-color:white;
+	opacity:0.7;
+	margin:0px auto;
+	border-radius:20px;
+}
+.form h1 {
+	height:40px;
+	width:135px;
+	font-family:Monospace,Courier New Lucida Console;
+	padding:5px;
+	margin: 0px 0px 0px 355px;
+	border:2px solid black;
+	border-radius:4px;
+	line-height:40px;
+
+	
+}
+.form label{
+	font-size:20px;
+	margin: 8px 20px;
+    display: inline-block;
+	
+}
+.form input[type=text] {
+  width: 80%;
+  padding: 10px 15px;
+  margin: 8px 20px;
+  display: inline-block;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size:15px;
+}
+.form input[type=digits] {
+  width: 50%;
+  padding: 10px 15px;
+  margin: 8px 20px;
+  display: inline-block;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size:15px;
+}
+
+input:hover{
+	background-color:black;
+	color:white;
+	font-weight:bolder;
+}
+
+.form input[type=radio]{
+	font-size:20px;
+	margin:8px 20px;
+	
+}
+.form select
+{
+	margin:8px 20px;
+	padding:7px 5px;
+}
+
+.form input[type=checkbox]
+{
+	font-size:30px;
+	margin:8px 20px;
+	padding:20px;
+
+	
+}
+button {
+	  width:65%;
+	  background-color:#00AF1C;
+	  padding: 10px 15px;
+	  margin: 8px 135px;
+	  display: inline-block;
+	  border-radius: 5px;
+	  border:none;
+	  font-size:15px;
+}
+	
+button:hover{
+	background-color:#218130;
+	
+}
+
+
+
+
+
+
+.email  label{
+	font-size:20px;
+	margin: 8px 20px;
+    display: inline-block;
+	
+}
+.email i{
+          padding:10px 15px;
+          margin: 0px 0px 0px 0px;
+		  text-align:center;
+		  font-size:30px;
+		  float:left;
+		  color:red;
+		  
+}
+.email input[type=email] {
+  width: 80%;
+  padding: 10px 15px;
+  margin: 8px -10px;
+  display: inline-block;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size:15px;
+}
+
+
+.pass label{
+	font-size:20px;
+	margin: 8px 20px;
+    display: inline-block;
+	
+}
+.pass i{
+          padding:10px 15px;
+          margin: 0px 0px 0px 0px;
+		  text-align:center;
+		  font-size:30px;
+		  float:left;
+		  color:red;
+		  
+}
+.pass input[type=password] {
+  width: 80%;
+  padding: 10px 15px;
+  margin: 8px -10px;
+  display: inline-block;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size:15px;
+}
+
+
+.phone input[type=digits] {
+  width: 50%;
+  padding: 10px 15px;
+  margin: 8px -10px;
+  display: inline-block;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-size:15px;
+}
+.phone i{
+          padding:10px 15px;
+          margin: 0px 0px 0px 0px;
+		  text-align:center;
+		  font-size:30px;
+		  float:left;
+		  color:red;
+		  
+}
+.phone label{
+	font-size:20px;
+	margin: 8px 20px;
+    display: inline-block;
+	
+}
+

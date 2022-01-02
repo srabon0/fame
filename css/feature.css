@@ -1,0 +1,148 @@
+body
+{
+	background-image:url(../img/3aa.jpg);
+	background-attachment:fixed;
+	margin:0px;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+
+}
+.tot{
+	height:800px;
+	width:960px;
+	margin:0px auto;
+	
+	
+}
+
+.left{
+	height:600px;
+	width:420px;
+	
+	margin:0px 0px 0px 60px;
+	float:left;
+	
+}
+.left h1{ 
+		font-family:Monospace,Courier New Lucida Console;
+		font-size:42px;
+		text-align:center;
+		color:white;
+		margin:150px 20px 100px 20px;
+		float:left;
+		
+
+}
+.left  span{
+	font-family:Monospace,Courier New Lucida Console;
+		font-size:42px;
+		text-align:center;
+		color:green;
+	
+	
+}
+.store{
+	height:130px;
+	width:300px;
+	float:left;
+	margin:60px;
+	
+	
+}
+.play{
+	height:130px;
+	width:150px;
+	float:left;
+	
+	
+}
+.play img {
+	height:130px;
+	width:150px;
+	margin:0px;
+	
+}
+.str {
+	height:130px;
+	width:150px;
+	float:left;
+	
+}
+.str img{
+	height:130px;
+	width:150px;
+	margin:0px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+.right{
+	height:600px;
+	width:360px;
+	background-color:none;
+	margin:0px 60px 0px 60px;
+	float:left;
+	
+}
+.in {
+	height:320px;
+	width: 175px;
+	margin:60px 0px 0px 0px;
+	background-image:url(../img/B.gif);
+	background-position:center;
+	background-size:cover;
+	
+}
+.in img{
+	height:460px;
+	width: 250px;
+	margin:-60px 0px 0px -30px;
+}
+.foot{
+	height:150px;
+	width:940px;
+	margin:10px;
+	background-color:rgba(255,255,255,0.7);
+	float:left
+}
+.cx img{
+	height:30px;
+	width:30px;
+	margin:20px;
+}
+.cx h5{ 
+	font-size:15px;
+	text-transform:uppercase;
+	margin:-10px 0px 0px 20px;
+	background-color:#56CD38;
+	width:130px;
+	height:20px;
+	color:white;
+}
+.cx p{
+	font-size:12px;
+	text-transform:uppercase;
+	margin:20px 0px 0px 20px;
+	
+	color:blue;
+	
+}
+
+
+
+
+
+
+
+
+
+
